@@ -1,0 +1,270 @@
+Death no. 1 occured on: 2020-11-21 and was caused by: FALLING in the area: THINGS BETWIXT
+Death no. 2 occured on: 2020-11-21 and was caused by: HOLLOW INFANTRY in the area: FOREST OF FALLEN GIANTS
+Death no. 3 occured on: 2020-11-21 and was caused by: FALLING in the area: FOREST OF FALLEN GIANTS
+Death no. 4 occured on: 2020-11-21 and was caused by: FALLING in the area: FOREST OF FALLEN GIANTS
+Death no. 5 occured on: 2020-11-21 and was caused by: HOLLOW INFANTRY in the area: FOREST OF FALLEN GIANTS
+Death no. 6 occured on: 2020-11-21 and was caused by: HOLLOW ROYAL SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 7 occured on: 2020-11-21 and was caused by: HOLLOW ROYAL SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 8 occured on: 2020-11-21 and was caused by: HOLLOW ROYAL SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 9 occured on: 2020-11-21 and was caused by: HOLLOW ROYAL SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 10 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 11 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 12 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 13 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 14 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 15 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 16 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 17 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 18 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 19 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+Death no. 20 occured on: 2020-11-21 and was caused by: THE LAST GIANT in the area: FOREST OF FALLEN GIANTS
+
+> Boss killed: THE LAST GIANT which occured on: 2020-11-21
+
+Death no. 21 occured on: 2020-11-21 and was caused by: IRONCLAD SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 22 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 23 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 24 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 25 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 26 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 27 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 28 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 29 occured on: 2020-11-21 and was caused by: IRONCLAD SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 30 occured on: 2020-11-21 and was caused by: IRONCLAD SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 31 occured on: 2020-11-21 and was caused by: ARMORER DENNIS in the area: FOREST OF FALLEN GIANTS
+Death no. 32 occured on: 2020-11-21 and was caused by: HOLLOW ROYAL SOLDIER in the area: FOREST OF FALLEN GIANTS
+Death no. 33 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+Death no. 34 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+Death no. 35 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+Death no. 36 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+Death no. 37 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+Death no. 38 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+Death no. 39 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+Death no. 40 occured on: 2020-11-21 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+
+> Boss killed: THE PURSUER which occured on: 2020-11-21
+
+Death no. 41 occured on: 2020-11-21 and was caused by: RED-EYED PURSUER in the area: LOST BASTILLE
+Death no. 42 occured on: 2020-11-21 and was caused by: FALLING in the area: LOST BASTILLE
+Death no. 43 occured on: 2020-11-21 and was caused by: RED-EYED PURSUER in the area: LOST BASTILLE
+Death no. 44 occured on: 2020-11-21 and was caused by: FALLING in the area: LOST BASTILLE
+Death no. 45 occured on: 2020-11-21 and was caused by: FALLING in the area: LOST BASTILLE
+Death no. 46 occured on: 2020-11-21 and was caused by: RED-EYED PURSUER in the area: LOST BASTILLE
+Death no. 47 occured on: 2020-11-21 and was caused by: RED-EYED PURSUER in the area: LOST BASTILLE
+Death no. 48 occured on: 2020-11-21 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 49 occured on: 2020-11-21 and was caused by: GAOLER in the area: LOST BASTILLE
+Death no. 50 occured on: 2020-11-21 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 51 occured on: 2020-11-21 and was caused by: GAOLER in the area: LOST BASTILLE
+Death no. 52 occured on: 2020-11-21 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 53 occured on: 2020-11-21 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 54 occured on: 2020-11-21 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+Death no. 55 occured on: 2020-11-21 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 56 occured on: 2020-11-21 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 57 occured on: 2020-11-21 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+Death no. 58 occured on: 2020-11-21 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 59 occured on: 2020-11-21 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+Death no. 60 occured on: 2020-11-21 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+Death no. 61 occured on: 2020-11-21 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+Death no. 62 occured on: 2020-11-21 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+Death no. 63 occured on: 2020-11-21 and was caused by: RUINS SENTINELS in the area: LOST BASTILLE
+Death no. 64 occured on: 2020-11-21 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+
+> Boss killed: RUIN SENTINELS which occured on: 2020-11-21
+
+Death no. 65 occured on: 2020-11-23 and was caused by: RED-EYED PURSUER in the area: LOST BASTILLE
+Death no. 66 occured on: 2020-11-23 and was caused by: RED-EYED PURSUER in the area: LOST BASTILLE
+Death no. 67 occured on: 2020-11-23 and was caused by: RUPTURING HOLLOW in the area: LOST BASTILLE
+Death no. 68 occured on: 2020-11-23 and was caused by: RUPTURING HOLLOW in the area: LOST BASTILLE
+Death no. 69 occured on: 2020-11-23 and was caused by: RUPTURING HOLLOW in the area: LOST BASTILLE
+Death no. 70 occured on: 2020-11-23 and was caused by: FLEXILE SENTRY in the area: SINNER'S RISE
+Death no. 71 occured on: 2020-11-23 and was caused by: FLEXILE SENTRY in the area: SINNER'S RISE
+Death no. 72 occured on: 2020-11-23 and was caused by: RUPTURING HOLLOW in the area: SINNER'S RISE
+Death no. 73 occured on: 2020-11-23 and was caused by: THE LOST SINNER in the area: SINNER'S RISE
+Death no. 74 occured on: 2020-11-23 and was caused by: THE LOST SINNER in the area: SINNER'S RISE
+
+> Boss killed: THE LOST SINNER which occured on: 2020-11-23
+
+Death no. 75 occured on: 2020-11-23 and was caused by: FALLING in the area: HEIDE'S TOWER OF FLAME
+
+> Boss killed: DRAGONRIDER which occured on: 2020-11-23
+
+Death no. 76 occured on: 2020-11-23 and was caused by: TRAP CHEST in the area: NO-MAN'S WHARF
+Death no. 77 occured on: 2020-11-23 and was caused by: HOLLOW VARANGIAN in the area: NO-MAN'S WHARF
+Death no. 78 occured on: 2020-11-23 and was caused by: FALLING in the area: NO-MAN'S WHARF
+
+> Boss killed: FLEXILE SENTRY which occured on: 2020-11-23
+
+Death no. 79 occured on: 2020-11-23 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 80 occured on: 2020-11-23 and was caused by: STRAY HOUND in the area: LOST BASTILLE
+Death no. 81 occured on: 2020-11-23 and was caused by: STRAY HOUND in the area: LOST BASTILLE
+Death no. 82 occured on: 2020-11-23 and was caused by: STRAY HOUND in the area: LOST BASTILLE
+Death no. 83 occured on: 2020-11-23 and was caused by: STRAY HOUND in the area: LOST BASTILLE
+Death no. 84 occured on: 2020-11-23 and was caused by: HEIDE KNIGHT in the area: HEIDE'S TOWER OF FLAME
+Death no. 85 occured on: 2020-11-23 and was caused by: FALLING in the area: HUNTSMAN'S COPSE
+Death no. 86 occured on: 2020-11-23 and was caused by: SKELETON in the area: HUNTSMAN'S COPSE
+Death no. 87 occured on: 2020-11-23 and was caused by: SKELETON LORDS in the area: HUNTSMAN'S COPSE
+
+> Boss killed: SKELETON LORDS which occured on: 2020-11-23
+
+Death no. 88 occured on: 2020-11-23 and was caused by: UNDEAD HUNTSMAN in the area: HARVEST VALLEY
+Death no. 89 occured on: 2020-11-23 and was caused by: HAMMERSMITH in the area: HARVEST VALLEY
+Death no. 90 occured on: 2020-11-23 and was caused by: FALLING in the area: EARTHEN PEAK
+Death no. 91 occured on: 2020-11-23 and was caused by: DESERT PYROMANCER in the area: EARTHEN PEAK
+Death no. 92 occured on: 2020-11-23 and was caused by: HAMMERSMITH in the area: EARTHEN PEAK
+Death no. 93 occured on: 2020-11-23 and was caused by: COVETOUS DEMON in the area: EARTHEN PEAK
+Death no. 94 occured on: 2020-11-23 and was caused by: COVETOUS DEMON in the area: EARTHEN PEAK
+Death no. 95 occured on: 2020-11-23 and was caused by: COVETOUS DEMON in the area: EARTHEN PEAK
+
+> Boss killed: COVETOUS DEMON which occured on: 2020-11-23
+
+Death no. 96 occured on: 2020-11-23 and was caused by: FALLING in the area: EARTHEN PEAK
+Death no. 97 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 98 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 99 occured on: 2020-11-23 and was caused by: GRAVE WARDEN in the area: EARTHEN PEAK
+Death no. 100 occured on: 2020-11-23 and was caused by: ARROW TRAP in the area: EARTHEN PEAK
+Death no. 101 occured on: 2020-11-23 and was caused by: MYTHA, THE BANEFUL QUEEN in the area: EARTHEN PEAK
+Death no. 102 occured on: 2020-11-23 and was caused by: MYTHA, THE BANEFUL QUEEN in the area: EARTHEN PEAK
+Death no. 103 occured on: 2020-11-23 and was caused by: MYTHA, THE BANEFUL QUEEN in the area: EARTHEN PEAK
+Death no. 104 occured on: 2020-11-23 and was caused by: MYTHA, THE BANEFUL QUEEN in the area: EARTHEN PEAK
+Death no. 105 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 106 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 107 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 108 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 109 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 110 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 111 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 112 occured on: 2020-11-23 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+
+> Boss killed: MYTHA, THE BANEFUL QUEEN which occured on: 2020-11-23
+
+Death no. 113 occured on: 2020-11-23 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 114 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 115 occured on: 2020-11-23 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 116 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 117 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 118 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 119 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 120 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 121 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 122 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 123 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 124 occured on: 2020-11-23 and was caused by: FENCER SHARRON in the area: IRON KEEP
+Death no. 125 occured on: 2020-11-23 and was caused by: EXPLOSION in the area: IRON KEEP
+Death no. 126 occured on: 2020-11-23 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 127 occured on: 2020-11-23 and was caused by: FALLING in the area: IRON KEEP
+Death no. 128 occured on: 2020-11-23 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 129 occured on: 2020-11-23 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 130 occured on: 2020-11-23 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 131 occured on: 2020-11-23 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 132 occured on: 2020-11-23 and was caused by: FALLING in the area: IRON KEEP
+Death no. 133 occured on: 2020-11-23 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 134 occured on: 2020-11-23 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 135 occured on: 2020-11-23 and was caused by: FALLING in the area: IRON KEEP
+Death no. 136 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 137 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 138 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 139 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 140 occured on: 2020-11-24 and was caused by: FALLING in the area: IRON KEEP
+Death no. 141 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 142 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 143 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 144 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 145 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 146 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 147 occured on: 2020-11-24 and was caused by: LAVA in the area: IRON KEEP
+Death no. 148 occured on: 2020-11-24 and was caused by: LAVA in the area: IRON KEEP
+Death no. 149 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 150 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+Death no. 151 occured on: 2020-11-24 and was caused by: SMELTER DEMON in the area: IRON KEEP
+
+> Boss killed: SMELTER DEMON which occured on: 2020-11-24
+
+Death no. 152 occured on: 2020-11-24 and was caused by: ARROW TRAP in the area: EARTHEN PEAK
+Death no. 153 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 154 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 155 occured on: 2020-11-24 and was caused by: INVADER in the area: BELFRY SOL
+Death no. 156 occured on: 2020-11-24 and was caused by: INVADER in the area: BELFRY SOL
+Death no. 157 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 158 occured on: 2020-11-24 and was caused by: FALLING in the area: IRON KEEP
+Death no. 159 occured on: 2020-11-24 and was caused by: LAVA in the area: IRON KEEP
+Death no. 160 occured on: 2020-11-24 and was caused by: FALLING in the area: IRON KEEP
+Death no. 161 occured on: 2020-11-24 and was caused by: IRONCLAD SOLDIER in the area: IRON KEEP
+Death no. 162 occured on: 2020-11-24 and was caused by: FALLING in the area: IRON KEEP
+Death no. 163 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 164 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 165 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 166 occured on: 2020-11-24 and was caused by: FALLING in the area: IRON KEEP
+Death no. 167 occured on: 2020-11-24 and was caused by: OLD IRON KING in the area: IRON KEEP
+Death no. 168 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 169 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 170 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 171 occured on: 2020-11-24 and was caused by: FALLING in the area: IRON KEEP
+Death no. 172 occured on: 2020-11-24 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 173 occured on: 2020-12-02 and was caused by: ALONNE KNIGHT in the area: IRON KEEP
+Death no. 174 occured on: 2020-12-02 and was caused by: THE PURSUER in the area: IRON KEEP
+
+> Boss killed: OLD IRON KING which occured on: 2020-12-02
+
+Death no. 175 occured on: 2020-12-02 and was caused by: FALLING in the area: THE GUTTER
+Death no. 176 occured on: 2020-12-02 and was caused by: HOLLOW in the area: THE GUTTER
+Death no. 177 occured on: 2020-12-02 and was caused by: THE ROTTEN in the area: BLACK GULCH
+Death no. 178 occured on: 2020-12-02 and was caused by: THE ROTTEN in the area: BLACK GULCH
+
+> Boss killed: THE ROTTEN which occured on: 2020-12-02
+
+Death no. 179 occured on: 2020-12-02 and was caused by: FOREST GROTESQUE in the area: MAJULA
+Death no. 180 occured on: 2020-12-02 and was caused by: TOXIC GOBLIN in the area: SHADED WOODS
+Death no. 181 occured on: 2020-12-02 and was caused by: SCORPIONESS NAJKA in the area: SHADED WOODS
+Death no. 182 occured on: 2020-12-02 and was caused by: SCORPIONESS NAJKA in the area: SHADED WOODS
+Death no. 183 occured on: 2020-12-02 and was caused by: SCORPIONESS NAJKA in the area: SHADED WOODS
+Death no. 184 occured on: 2020-12-02 and was caused by: SCORPIONESS NAJKA in the area: SHADED WOODS
+
+> Boss killed: SCORPIONESS NAJKA which occured on: 2020-12-02
+
+Death no. 185 occured on: 2020-12-02 and was caused by: PROWLING MAGUS & CONGREGATION in the area: BRIGHTSTONE COVE TSELDORA
+
+> Boss killed: PROWLING MAGUS & CONGREGATION which occured on: 2020-12-02
+
+Death no. 186 occured on: 2020-12-02 and was caused by: THE DUKE'S DEAR FREJA in the area: BRIGHTSTONE COVE TSELDORA
+Death no. 187 occured on: 2020-12-02 and was caused by: DUCAL SPIDER in the area: BRIGHTSTONE COVE TSELDORA
+Death no. 188 occured on: 2020-12-02 and was caused by: CRAWLING HOLLOW in the area: BRIGHTSTONE COVE TSELDORA
+Death no. 189 occured on: 2020-12-02 and was caused by: FALLING in the area: BRIGHTSTONE COVE TSELDORA
+Death no. 190 occured on: 2020-12-02 and was caused by: DUCAL SPIDER in the area: BRIGHTSTONE COVE TSELDORA
+
+> Boss killed: THE DUKE'S DEAR FREYJA which occured on: 2020-12-02
+
+Death no. 191 occured on: 2020-12-02 and was caused by: TWIN DRAGONRIDERS in the area: DRANGLEIC CASTLE
+
+> Boss killed: TWIN DRAGONRIDERS which occured on: 2020-12-02
+
+
+> Boss killed: LOOKING GLASS KNIGHT which occured on: 2020-12-02
+
+Death no. 192 occured on: 2020-12-02 and was caused by: ARCHDRAKE PILGRIM in the area: SHRINE OF AMANA
+Death no. 193 occured on: 2020-12-02 and was caused by: AMANA MAGE in the area: SHRINE OF AMANA
+Death no. 194 occured on: 2020-12-02 and was caused by: ARCHDRAKE PILGRIM in the area: SHRINE OF AMANA
+Death no. 195 occured on: 2020-12-02 and was caused by: ARCHDRAKE PILGRIM in the area: SHRINE OF AMANA
+Death no. 196 occured on: 2020-12-02 and was caused by: ARCHDRAKE PILGRIM in the area: SHRINE OF AMANA
+Death no. 197 occured on: 2020-12-02 and was caused by: DEMON OF SONG in the area: SHRINE OF AMANA
+Death no. 198 occured on: 2020-12-02 and was caused by: LEYDIA PYROMANCER in the area: UNDEAD CRYPT
+Death no. 199 occured on: 2020-12-02 and was caused by: LEYDIA PYROMANCER in the area: UNDEAD CRYPT
+
+> Boss killed: VELSTADT, THE ROYAL AEGIS which occured on: 2020-12-02
+
+
+> Boss killed: THRONE WATCHER & DEFENDER which occured on: 2020-12-02
+
+Death no. 200 occured on: 2020-12-02 and was caused by: FALLING in the area: ALDIA'S KEEP
+Death no. 201 occured on: 2020-12-02 and was caused by: OGRE in the area: ALDIA'S KEEP
+Death no. 202 occured on: 2020-12-02 and was caused by: OGRE in the area: ALDIA'S KEEP
+
+> Boss killed: GUARDIAN DRAGON which occured on: 2020-12-02
+
+Death no. 203 occured on: 2020-12-02 and was caused by: DRAKEKEEPER in the area: DRAGON SHRINE
+
+> Boss killed: GIANT LORD which occured on: 2020-12-02
+
+Death no. 204 occured on: 2020-12-02 and was caused by: NASHANDRA in the area: THRONE OF WANT
+
+> Boss killed: NASHANDRA which occured on: 2020-12-02
+

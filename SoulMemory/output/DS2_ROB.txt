@@ -1,0 +1,161 @@
+Death no. 1 occured on: 2020-11-24 and was caused by: FALLING in the area: FOREST OF FALLEN GIANTS
+Death no. 2 occured on: 2020-11-24 and was caused by: THE PURSUER in the area: FOREST OF FALLEN GIANTS
+
+> Boss killed: THE LAST GIANT which occured on: 2020-11-21
+
+> Boss killed: THE PURSUER which occured on: 2020-11-21
+
+Death no. 3 occured on: 2020-11-24 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 4 occured on: 2020-11-24 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+Death no. 5 occured on: 2020-11-24 and was caused by: RUIN SENTINELS in the area: LOST BASTILLE
+Death no. 6 occured on: 2020-11-24 and was caused by: ROYAL SWORDSMAN in the area: LOST BASTILLE
+
+> Boss killed: RUIN SENTINELS which occured on: 2020-11-24
+
+
+> Boss killed: DRAGONRIDER which occured on: 2020-11-24
+
+Death no. 7 occured on: 2020-11-24 and was caused by: FALLING in the area: NO-MAN'S WHARF
+Death no. 8 occured on: 2020-11-24 and was caused by: STRAY HOUND in the area: LOST BASTILLE
+Death no. 9 occured on: 2020-11-24 and was caused by: STRAY HOUND in the area: LOST BASTILLE
+Death no. 10 occured on: 2020-11-24 and was caused by: STRAY HOUND in the area: LOST BASTILLE
+Death no. 11 occured on: 2020-11-24 and was caused by: GAOLER in the area: LOST BASTILLE
+Death no. 12 occured on: 2020-11-24 and was caused by: FALLING in the area: MAJULA
+Death no. 13 occured on: 2020-11-24 and was caused by: FALLING in the area: MAJULA
+Death no. 14 occured on: 2020-11-24 and was caused by: FALLING in the area: MAJULA
+Death no. 15 occured on: 2020-11-24 and was caused by: FALLING in the area: GRAVE OF SAINTS
+Death no. 16 occured on: 2020-11-24 and was caused by: FALLING in the area: MAJULA
+
+> Boss killed: ROYAL RAT VANGUARD which occured on: 2020-11-24
+
+Death no. 17 occured on: 2020-11-24 and was caused by: FALLING in the area: THE GUTTER
+Death no. 18 occured on: 2020-11-24 and was caused by: FALLING in the area: GRAVE OF SAINTS
+Death no. 19 occured on: 2020-11-24 and was caused by: FOREST GROTESQUE in the area: SHADED WOODS
+Death no. 20 occured on: 2020-11-24 and was caused by: SCORPIONESS NAJKA in the area: SHADED WOODS
+
+> Boss killed: SCORPIONESS NAJKA which occured on: 2020-11-24
+
+Death no. 21 occured on: 2020-11-24 and was caused by: HOLLOW ROGUE in the area: HUNTSMAN'S COPSE
+
+> Boss killed: SKELETON LORDS which occured on: 2020-11-24
+
+Death no. 22 occured on: 2020-11-24 and was caused by: DESERT SORCERESS in the area: HARVEST VALLEY
+Death no. 23 occured on: 2020-11-24 and was caused by: DESERT SORCERESS in the area: HARVEST VALLEY
+Death no. 24 occured on: 2020-11-24 and was caused by: BANEDIGGER in the area: HARVEST VALLEY
+Death no. 25 occured on: 2020-11-24 and was caused by: BANEDIGGER in the area: HARVEST VALLEY
+Death no. 26 occured on: 2020-11-24 and was caused by: ARROW TRAP in the area: HARVEST VALLEY
+
+> Boss killed: COVETOUS DEMON which occured on: 2020-11-24
+
+Death no. 27 occured on: 2020-11-24 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 28 occured on: 2020-11-24 and was caused by: GRAVE WARDEN in the area: EARTHEN PEAK
+Death no. 29 occured on: 2020-11-24 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 30 occured on: 2020-11-24 and was caused by: FALLING in the area: EARTHEN PEAK
+Death no. 31 occured on: 2020-11-24 and was caused by: FALLING in the area: EARTHEN PEAK
+Death no. 32 occured on: 2020-11-24 and was caused by: HEADLESS VENGARL in the area: EARTHEN PEAK
+Death no. 33 occured on: 2020-11-24 and was caused by: DESERT SORCERESS in the area: EARTHEN PEAK
+
+> Boss killed: MYTHA, THE BANEFUL QUEEN which occured on: 2020-11-24
+
+Death no. 34 occured on: 2020-11-24 and was caused by: BANEDIGGER in the area: HARVEST VALLEY
+Death no. 35 occured on: 2020-11-24 and was caused by: POISON in the area: HARVEST VALLEYDeath no. 34 occured on: 2020-11-24 and was caused by: COVETOUS DEMON in the area: EARTHEN PEAK
+Death no. 35 occured on: 2020-11-24 and was caused by: COVETOUS DEMON in the area: EARTHEN PEAK
+
+> Boss killed: COVETOUS DEMON which occured on: 2020-11-24
+
+
+> Boss killed: SMELTER DEMON which occured on: 2020-11-24
+
+Death no. 36 occured on: 2020-11-24 and was caused by: IRONCLAD WARRIOR in the area: IRON KEEP
+Death no. 37 occured on: 2020-11-24 and was caused by: OLD IRON KING in the area: IRON KEEP
+Death no. 39 occured on: 2020-11-25 and was caused by: FORLORN in the area: IRON KEEP
+
+> Boss killed: OLD IRON KING which occured on: 2020-11-25
+
+Death no. 40 occured on: 2020-11-25 and was caused by: OLD KNIGHT in the area: HEIDE'S TOWER OF FLAME
+Death no. 41 occured on: 2020-11-25 and was caused by: GUARDIAN DRAGON in the area: HEIDE'S TOWER OF FLAME
+Death no. 42 occured on: 2020-11-25 and was caused by: FALLING in the area: HEIDE'S TOWER OF FLAME
+
+> Boss killed: OLD DRAGONSLAYER which occured on: 2020-11-25
+
+Death no. 43 occured on: 2020-11-25 and was caused by: BELFRY GARGOYLES in the area: BELFRY LUNA
+
+> Boss killed: BELFRY GARGOYLES which occured on: 2020-11-25
+
+
+> Boss killed: LOST SINNER which occured on: 2020-11-25
+
+Death no. 44 occured on: 2020-11-25 and was caused by: ROYAL RAT AUTHORITY in the area: DOORS OF PHARROS
+
+> Boss killed: ROYAL RAT AUTHORITY which occured on: 2020-11-25
+
+
+> Boss killed: PROWLING MAGUS & CONGREGATION which occured on: 2020-11-25
+
+Death no. 45 occured on: 2020-11-25 and was caused by: HOLLOW MAGE in the area: BRIGHTSTONE COVE TSELDORA
+
+> Boss killed: THE DUKE'S DEAR FREJA which occured on: 2020-11-25
+
+
+> Boss killed: THE ROTTEN which occured on: 2020-11-25
+
+
+> Boss killed: EXECUTIONER'S CHARIOT which occured on: 2020-11-25
+
+Death no. 46 occured on: 2020-11-25 and was caused by: ROYAL SWORDSMAN in the area: DRANGLEIC CASTLE
+Death no. 47 occured on: 2020-11-25 and was caused by: RUIN SENTINEL in the area: DRANGLEIC CASTLE
+Death no. 48 occured on: 2020-11-25 and was caused by: FALLING in the area: THE GUTTER
+Death no. 49 occured on: 2020-11-25 and was caused by: RUIN SENTINEL in the area: DRANGLEIC CASTLE
+Death no. 50 occured on: 2020-11-25 and was caused by: RUIN SENTINEL in the area: DRANGLEIC CASTLE
+Death no. 51 occured on: 2020-11-25 and was caused by: RUIN SENTINEL in the area: 
+Death no. 52 occured on: 2020-11-25 and was caused by: DRAGONRIDER in the area: DRANGLEIC CASTLE
+
+> Boss killed: TWIN DRAGONRIDERS which occured on: 2020-11-25
+
+Death no. 53 occured on: 2020-11-26 and was caused by: LOOKING GLASS KNIGHT in the area: KING'S PASSAGE
+Death no. 54 occured on: 2020-11-26 and was caused by: LOOKING GLASS KNIGHT in the area: KINGS PASSAGE
+
+> Boss killed: LOOKING GLASS KNIGHT which occured on: 2020-11-26
+
+Death no. 55 occured on: 2020-11-26 and was caused by: AMANA ABERRATION in the area: SHRINE OF AMANA
+Death no. 56 occured on: 2020-11-26 and was caused by: OLD KNIGHT in the area: SHRINE OF AMANA
+Death no. 57 occured on: 2020-11-26 and was caused by: DRAGONRIDER in the area: SHRINE OF AMAN
+Death no. 58 occured on: 2020-11-28 and was caused by: RUPTURING HOLLOW in the area: DRAGON AERIE
+Death no. 59 occured on: 2020-11-28 and was caused by: FENCER SHARRON in the area: DRAGON AERIE
+Death no. 60 occured on: 2020-11-28 and was caused by: RUPTURING HOLLOW in the area: DRAGON AERIE
+Death no. 61 occured on: 2020-11-28 and was caused by: GUARDIAN DRAGON in the area: DRAGON AERIE
+Death no. 62 occured on: 2020-11-28 and was caused by: FALLING in the area: DRAGON AERIE
+Death no. 63 occured on: 2020-11-28 and was caused by: DRAGON KNIGHT in the area: DRAGON SHRINE
+Death no. 64 occured on: 2020-11-28 and was caused by: DRAGON KNIGHT in the area: DRAGON SHRINE
+Death no. 65 occured on: 2020-11-28 and was caused by: DRAKEKEEPER in the area: DRAGON SHRINE
+Death no. 66 occured on: 2020-11-28 and was caused by: ANCIENT DRAGON in the area: DRAGON SHRINE
+Death no. 67 occured on: 2020-11-28 and was caused by: ANCIENT DRAGON in the area: DRAGON SHRINE
+
+> Boss killed: ANCIENT DRAGON which occured on: 2020-11-28
+
+Death no. 68 occured on: 2020-11-28 and was caused by: FALLING in the area: UNDEAD CRYPT
+Death no. 69 occured on: 2020-11-28 and was caused by: FALLING in the area: IRON KEEP
+Death no. 70 occured on: 2020-11-28 and was caused by: FALLING in the area: IRON KEEP
+Death no. 71 occured on: 2020-11-28 and was caused by: PURSUER in the area: IRON KEEP
+Death no. 72 occured on: 2020-11-28 and was caused by: BOULDER in the area: MEMORY OF JEIGH
+Death no. 73 occured on: 2020-11-28 and was caused by: FIRE in the area: MEMORY OF JEIGH
+Death no. 74 occured on: 2020-11-28 and was caused by: VENDRICK in the area: UNDEAD CRYPT
+Death no. 75 occured on: 2020-11-28 and was caused by: VENDRICK in the area: UNDEAD CRYPT
+Death no. 76 occured on: 2020-11-28 and was caused by: VENDRICK in the area: UNDEAD CRYPT
+Death no. 77 occured on: 2020-11-28 and was caused by: VENDRICK in the area: UNDEAD CRYPT
+Death no. 78 occured on: 2020-11-28 and was caused by: VENDRICK in the area: UNDEAD CRYPT
+Death no. 79 occured on: 2020-11-28 and was caused by: VENDRICK in the area: UNDEAD CRYPT
+
+> Boss killed: VENDRICK which occured on: 2020-11-28
+
+
+> Boss killed: THRONE WATCHER & DEFENDER which occured on: 2020-11-28
+
+Death no. 80 occured on: 2020-11-28 and was caused by: NASHANDRA in the area: THRONE OF WANT
+
+> Boss killed: NASHANDRA which occured on: 2020-11-28
+
+
+> Boss killed: ALDIA, SCHOLAR OF THE FIRST SIN which occured on: 2020-11-28
+
+

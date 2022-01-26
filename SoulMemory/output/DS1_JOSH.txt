@@ -1,0 +1,113 @@
+Death no. 1 occured on: 2020-11-16 and was caused by: BLACK KNIGHT in the area: UNDEAD BURG
+Death no. 2 occured on: 2020-11-16 and was caused by: HOLLOW SOLIDER in the area: UNDEAD BURG
+Death no. 3 occured on: 2020-11-16 and was caused by: BLACK KNIGHT in the area: UNDEAD BURG
+Death no. 4 occured on: 2020-11-16 and was caused by: TAURUS DEMON in the area: UNDEAD BURG
+Death no. 5 occured on: 2020-11-16 and was caused by: HOLLOW SOLIDER in the area: UNDEAD BURG
+
+> Boss killed: TAURUS DEMON which occured on: 2020-11-16
+
+Death no. 6 occured on: 2020-11-16 and was caused by: ARMORED BOAR in the area: UNDEAD PARISH
+Death no. 7 occured on: 2020-11-16 and was caused by: HOLLOW SOLDIER in the area: UNDEAD PARISH
+Death no. 8 occured on: 2020-11-16 and was caused by: HOLLOW SOLDIER in the area: UNDEAD PARISH
+Death no. 9 occured on: 2020-11-16 and was caused by: FALLING in the area: UNDEAD BURG
+Death no. 10 occured on: 2020-11-16 and was caused by: GIANT RAT in the area: UNDEAD BURG
+Death no. 11 occured on: 2020-11-16 and was caused by: UNDEAD SOLDIER in the area: UNDEAD PARISH
+Death no. 12 occured on: 2020-11-16 and was caused by: ARMORED BOAR in the area: UNDEAD PARISH
+Death no. 13 occured on: 2020-11-16 and was caused by: BALDUR KNIGHT in the area: UNDEAD PARISH
+Death no. 14 occured on: 2020-11-16 and was caused by: BALDUR KNIGHT in the area: UNDEAD PARISH
+Death no. 15 occured on: 2020-11-16 and was caused by: UNDEAD SOLDIER in the area: UNDEAD PARISH
+Death no. 16 occured on: 2020-11-16 and was caused by: UNDEAD DRAGON in the area: VALLEY OF DRAKES
+Death no. 17 occured on: 2020-11-16 and was caused by: FALLING in the area: NEW LONDO RUINS
+Death no. 18 occured on: 2020-11-16 and was caused by: GHOST in the area: NEW LONDO RUINS
+Death no. 19 occured on: 2020-11-16 and was caused by: FALLING in the area: VALLEY OF DRAKES
+Death no. 20 occured on: 2020-11-16 and was caused by: BELL GARGOYLES in the area: UNDEAD PARISH
+Death no. 21 occured on: 2020-11-16 and was caused by: BELL GARGOYLES in the area: UNDEAD PARISH
+
+> Boss killed: BELL GARGOYLES which occured on: 2020-11-16
+
+Death no. 22 occured on: 2020-11-16 and was caused by: HYDRA in the area: DARKROOT BASIN
+Death no. 23 occured on: 2020-11-16 and was caused by: FALLING in the area: DARKROOT BASIN
+Death no. 24 occured on: 2020-11-16 and was caused by: HYDRA in the area: DARKROOT BASIN
+Death no. 25 occured on: 2020-11-16 and was caused by: HYDRA in the area: DARKROOT BASIN
+Death no. 26 occured on: 2020-11-16 and was caused by: GHOST in the area: NEW LONDO RUINS
+Death no. 27 occured on: 2020-11-16 and was caused by: DARKWRAITH in the area: NEW LONDO RUINS
+Death no. 28 occured on: 2020-11-16 and was caused by: FALLING in the area: BLIGHTTOWN
+Death no. 29 occured on: 2020-11-16 and was caused by: FALLING in the area: BLIGHTTOWN
+Death no. 30 occured on: 2020-11-16 and was caused by: FLAMING ATTACK DOG in the area: BLIGHTTOWN
+Death no. 31 occured on: 2020-11-16 and was caused by: FLAMING ATTACK DOG in the area: BLIGHTTOWN
+
+> Boss killed: QUELAAG which occured on: 2020-11-16
+
+Death no. 32 occured on: 2020-11-17 and was caused by: GIANT CENTIPEDE in the area: DEMON RUINS
+Death no. 33 occured on: 2020-11-17 and was caused by: FALLING in the area: THE GREAT HOLLOW
+Death no. 34 occured on: 2020-11-17 and was caused by: FALLING in the area: THE GREAT HOLLOW
+Death no. 35 occured on: 2020-11-17 and was caused by: CURSE in the area: THE GREAT HOLLOW
+Death no. 36 occured on: 2020-11-17 and was caused by: HYDRA in the area: ASH LAKE
+Death no. 37 occured on: 2020-11-17 and was caused by: FALLING in the area: ASH LAKE
+Death no. 38 occured on: 2020-11-17 and was caused by: FALLING in the area: ASH LAKE
+Death no. 39 occured on: 2020-11-17 and was caused by: HYDRA in the area: ASH LAKE
+Death no. 40 occured on: 2020-11-17 and was caused by: FALLING in the area: ASH LAKE
+Death no. 41 occured on: 2020-11-17 and was caused by: HYDRA in the area: ASH LAKE
+Death no. 42 occured on: 2020-11-17 and was caused by: GIANT CLAM in the area: ASH LAKE
+Death no. 43 occured on: 2020-11-17 and was caused by: GIANT CLAM in the area: ASH LAKE
+Death no. 44 occured on: 2020-11-17 and was caused by: GIANT CLAM in the area: ASH LAKE
+Death no. 45 occured on: 2020-11-17 and was caused by: FALLING in the area: THE GREAT HOLLOW
+Death no. 46 occured on: 2020-11-17 and was caused by: FALLING in the area: VALLEY OF DRAKES
+Death no. 47 occured on: 2020-11-17 and was caused by: FALLING in the area: BLIGHTTOWN
+Death no. 48 occured on: 2020-11-17 and was caused by: FALLING in the area: SEN'S FORTRESS
+Death no. 49 occured on: 2020-11-17 and was caused by: FALLING in the area: SEN'S FORTRESS
+Death no. 50 occured on: 2020-11-17 and was caused by: FALLING in the area: SEN'S FORTRESS
+Death no. 51 occured on: 2020-11-17 and was caused by: FALLING in the area: SEN'S FORTRESS
+Death no. 52 occured on: 2020-11-19 and was caused by: SILVER KNIGHT in the area: ANOR LONDO
+Death no. 53 occured on: 2020-11-19 and was caused by: SILVER KNIGHT in the area: ANOR LONDO
+Death no. 54 occured on: 2020-11-19 and was caused by: TITANITE DEMON in the area: ANOR LONDO
+Death no. 55 occured on: 2020-11-19 and was caused by: ORNSTEIN & SMOUGH in the area: ANOR LONDO
+Death no. 56 occured on: 2020-11-19 and was caused by: ORNSTEIN & SMOUGH in the area: ANOR LONDO
+
+> Boss killed: ORNSTEIN & SMOUGH which occured on: 2020-11-19
+
+Death no. 57 occured on: 2020-11-19 and was caused by: CRYSTAL HOLLOW in the area: THE DUKE'S ARCHIVES
+Death no. 58 occured on: 2020-11-19 and was caused by: CRYSTAL HOLLOW in the area: THE DUKE'S ARCHIVES
+Death no. 59 occured on: 2020-11-19 and was caused by: FALLING  in the area: CRYSTAL CAVE
+Death no. 60 occured on: 2020-11-19 and was caused by: FALLING in the area: CRYSTAL CAVE
+Death no. 61 occured on: 2020-11-19 and was caused by: FALLING in the area: CRYSTAL CAVE
+Death no. 62 occured on: 2020-11-19 and was caused by: FALLING in the area: CRYSTAL CAVE
+
+> Boss killed: SEATH THE SCALELESS which occured on: 2020-11-19
+
+Death no. 63 occured on: 2020-11-19 and was caused by: DEMON FIRESAGE in the area: DEMON RUINS
+
+> Boss killed: DEMON FIRESAGE which occured on: 2020-11-19
+
+> Boss killed: CENTIPEDE DEMON which occured on: 2020-11-19
+
+Death no. 64 occured on: 2020-11-19 and was caused by: FALLING in the area: LOST IZALITH
+Death no. 65 occured on: 2020-11-19 and was caused by: BED OF CHAOS in the area: LOST IZALITH
+Death no. 66 occured on: 2020-11-19 and was caused by: BED OF CHAOS in the area: LOST IZALITH
+Death no. 67 occured on: 2020-11-19 and was caused by: BED OF CHAOS in the area: LOST IZALITH
+Death no. 68 occured on: 2020-11-19 and was caused by: FALLING in the area: LOST IZALITH
+Death no. 69 occured on: 2020-11-19 and was caused by: BED OF CHAOS in the area: LOST IZALITH
+
+> Boss killed: BED OF CHAOS which occured on: 2020-11-19
+
+Death no. 70 occured on: 2020-11-19 and was caused by: FALLING in the area: DARKROOT GARDEN
+Death no. 71 occured on: 2020-11-19 and was caused by: FALLING in the area: NEW LONDO RUINS
+Death no. 72 occured on: 2020-11-19 and was caused by: DARKWRAITH in the area: NEW LONDO RUINS
+Death no. 73 occured on: 2020-11-19 and was caused by: FALLING in the area: NEW LONDO RUINS
+Death no. 74 occured on: 2020-11-19 and was caused by: FOUR KINGS in the area: THE ABYSS
+Death no. 75 occured on: 2020-11-19 and was caused by: FALLING in the area: NEW LONDO RUINS
+
+> Boss killed: FOUR KINGS which occured on: 2020-11-19
+
+Death no. 76 occured on: 2020-11-19 and was caused by: SKELETON in the area: THE CATACOMBS
+Death no. 77 occured on: 2020-11-19 and was caused by: BLACK KNIGHT in the area: TOMB OF THE GIANT
+Death no. 78 occured on: 2020-11-19 and was caused by: FALLING in the area: TOMB OF THE GIANTS
+Death no. 79 occured on: 2020-11-19 and was caused by: GRAVELORD NITO in the area: TOMB OF THE GIANTS
+Death no. 80 occured on: 2020-11-19 and was caused by: GRAVELORD NITO in the area: TOMB OF THE GIANTS
+Death no. 81 occured on: 2020-11-19 and was caused by: GRAVELORD NITO in the area: TOMB OF THE GIANTS
+Death no. 82 occured on: 2020-11-19 and was caused by: FALLING in the area: TOMB OF THE GIANTS
+Death no. 83 occured on: 2020-11-19 and was caused by: FALLING in the area: TOMB OF GIANTS
+
+> Boss killed: GRAVELORD NITO which occured on: 2020-11-19
+
+> Boss killed: GWYN which occured on: 2020-11-19

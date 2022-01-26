@@ -1,0 +1,117 @@
+
+> Boss killed: IUDEX GUNDYR which occured on: 2020-12-05
+
+Death no. 1 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 2 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 3 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 4 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 5 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 6 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 7 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 8 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 9 occured on: 2020-12-07 and was caused by: RED-EYE LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 10 occured on: 2020-12-07 and was caused by: VORDT OF THE BOREAL VALLEY in the area: HIGH WALL OF LOTHRIC
+
+> Boss killed: VORDT OF THE BOREAL VALLEY which occured on: 2020-12-07
+
+
+> Boss killed: CURSE-ROTTED GREATWOOD which occured on: 2020-12-07
+
+Death no. 11 occured on: 2020-12-07 and was caused by: HOLLOW MANSERVANT in the area: UNDEAD SETTLEMENT
+Death no. 12 occured on: 2020-12-07 and was caused by: ELDER GHRU in the area: FARRON KEEP
+Death no. 13 occured on: 2020-12-07 and was caused by: ELDER GHRU in the area: FARRON KEEP
+Death no. 14 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+
+> Boss killed: ABYSS WATCHERS which occured on: 2020-12-07
+
+> Boss killed: CRYSTAL SAGE which occured on: 2020-12-07
+
+Death no. 15 occured on: 2020-12-07 and was caused by: INVADER in the area: CATACOMBS OF CARTHUS
+Death no. 16 occured on: 2020-12-08 and was caused by: DARKWRAITH in the area: FARRON KEEP
+Death no. 17 occured on: 2020-12-08 and was caused by: STARVE DHOUND in the area: CATHEDRAL OF THE DEEP
+Death no. 18 occured on: 2020-12-08 and was caused by: UNKNOWN ENEMY in the area: CATHEDRAL OF THE DEEP
+Death no. 19 occured on: 2020-12-08 and was caused by: CATHEDRAL EVANGELIST in the area: CATHEDRAL OF THE DEEP
+Death no. 20 occured on: 2020-12-08 and was caused by: GIANT in the area: CATHEDRAL OF THE DEEP
+Death no. 21 occured on: 2020-12-08 and was caused by: CATHEDRAL KNIGHT in the area: CATHEDRAL OF THE DEEP
+Death no. 22 occured on: 2020-12-08 and was caused by: HOLLOW in the area: CATHEDRAL OF THE DEEP
+Death no. 23 occured on: 2020-12-08 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+Death no. 24 occured on: 2020-12-08 and was caused by: INVADER in the area: CATACOMBS OF CARTHUS
+Death no. 25 occured on: 2020-12-08 and was caused by: INVADER in the area: CATACOMBS OF CARTHUS
+Death no. 26 occured on: 2020-12-08 and was caused by: INVADER in the area: CATACOMBS OF CARTHUS
+Death no. 27 occured on: 2020-12-08 and was caused by: CARTHUS SANDWORM in the area: SMOULDERING LAKE
+Death no. 28 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 29 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 30 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 31 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 32 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 33 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 34 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 35 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 36 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 37 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 38 occured on: 2020-12-08 and was caused by: OLD DEMON KING in the area: SMOULDERING LAKE
+Death no. 39 occured on: 2020-12-08 and was caused by: RAT in the area: SMOULDERING LAKE
+Death no. 40 occured on: 2020-12-08 and was caused by: UNKNOWN NPC in the area: SMOULDERING LAKE
+
+> Boss killed: HIGH LORD WOLNIR which occured on: 2020-12-08
+
+Death no. 41 occured on: 2020-12-08 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 42 occured on: 2020-12-08 and was caused by: FIRE WITCH in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 43 occured on: 2020-12-08 and was caused by: FIRE WITCH in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 44 occured on: 2020-12-08 and was caused by: FIRE WITCH in the area: IRITHYLL OF THE BOREAL VALLEY
+
+> Boss killed: PONTIFF SULYVAHN which occured on: 2020-12-08
+
+Death no. 45 occured on: 2020-12-08 and was caused by: GIANT in the area: IRITHYLL OF THE BOREAL VALLEY
+
+> Boss killed: ALDRICH, DEVOURER OF GODS which occured on: 2020-12-08
+
+Death no. 46 occured on: 2020-12-08 and was caused by: JAILER in the area: IRITHYLL DUNGEON
+Death no. 47 occured on: 2020-12-08 and was caused by: UNKNOWN ENEMY in the area: IRITHYLL DUNGEON
+Death no. 48 occured on: 2020-12-08 and was caused by: JAILER in the area: IRITHYLL DUNGEON
+Death no. 49 occured on: 2020-12-08 and was caused by: GIANT in the area: IRITHYLL DUNGEON
+Death no. 50 occured on: 2020-12-08 and was caused by: GIANT RAT in the area: IRITHYLL DUNGEON
+Death no. 51 occured on: 2020-12-08 and was caused by: YHORM THE GIANT in the area: PROFANED CAPITAL
+
+> Boss killed: YHORM THE GIANT which occured on: 2020-12-08
+
+
+> Boss killed: DANCER OF THE BOREAL VALLEY which occured on: 2020-12-08
+
+Death no. 52 occured on: 2020-12-08 and was caused by: CATHEDRAL KNIGHT in the area: CONSUMED KING'S GARDEN
+Death no. 53 occured on: 2020-12-10 and was caused by: UNKNOWN in the area: UNKNOWN
+Death no. 54 occured on: 2020-12-10 and was caused by: UNKNOWN in the area: UNKNOWN
+Death no. 55 occured on: 2020-12-10 and was caused by: UNKNOWN in the area: UNKNOWN
+
+> Boss killed: LOTHRIC & LORIAN which occured on: 2020-12-10
+
+> Boss killed: SOUL OF CINDER which occured on: 2020-12-10
+
+Death no. 56 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+
+> Boss killed: NAMELESS KING which occured on: 2020-12-10
+
+Death no. 57 occured on: 2020-12-10 and was caused by: CORVIAN KNIGHT in the area: 
+Death no. 58 occured on: 2020-12-10 and was caused by: CORVIAN KNIGHT in the area: 
+Death no. 59 occured on: 2020-12-10 and was caused by: FOLLOWER in the area: THE PAINTED WORLD OF ARIANDEL
+Death no. 60 occured on: 2020-12-11 and was caused by: UNKNOWN in the area: UNKNOWN
+Death no. 61 occured on: 2020-12-11 and was caused by: UNKNOWN in the area: UNKNOWN
+Death no. 62 occured on: 2020-12-11 and was caused by: UNKNOWN in the area: UNKNOWN
+Death no. 63 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 64 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 65 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 66 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 67 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 68 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 69 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 70 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 71 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+
+> Boss killed: FRIEDE which occured on: 2020-12-11
+
+Death no. 72 occured on: 2020-12-11 and was caused by: HARALD KNIGHT in the area: THE DREG HEAP
+Death no. 73 occured on: 2020-12-11 and was caused by: ANGEL in the area: THE DREG HEAP
+Death no. 74 occured on: 2020-12-11 and was caused by: UNDEAD SLAVE in the area: THE DREG HEAP
+Death no. 75 occured on: 2020-12-11 and was caused by: ANGEL in the area: THE DREG HEAP
+Death no. 76 occured on: 2020-12-11 and was caused by: DESERT PYROMANCER ZOE in the area: THE DREG HEAP
+Death no. 77 occured on: 2020-12-11 and was caused by: DEMON PRINCE in the area: THE DREG HEAP

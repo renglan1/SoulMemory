@@ -1,0 +1,39 @@
+Death no. 1 occured on: 2020-11-19 and was caused by: FALLING in the area: FIRELINK SHRINE
+Death no. 2 occured on: 2020-11-19 and was caused by: HELLKITE DRAKE in the area: FIRELINK SHRINE
+Death no. 3 occured on: 2020-11-19 and was caused by: HELLKITE DRAKE in the area: UNDEAD BURG
+Death no. 4 occured on: 2020-11-19 and was caused by: FALLING in the area: ANOR LONDO
+Death no. 5 occured on: 2020-11-19 and was caused by: SANCTUARY GUARDIAN in the area: SANCTUARY GARDEN
+Death no. 6 occured on: 2020-11-19 and was caused by: FALLING in the area: OOLACILE SANCTUARY
+Death no. 7 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 8 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 9 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 10 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 11 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 12 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 13 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 14 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+Death no. 15 occured on: 2020-11-19 and was caused by: KNIGHT ARTORIAS in the area: ROYAL WOOD
+
+> Boss killed: KNIGHT ARTORIAS which occured on: 2020-11-19
+
+Death no. 16 occured on: 2020-11-19 and was caused by: FALLING in the area: OOLACILE TOWNSHIP
+Death no. 17 occured on: 2020-11-19 and was caused by: BLOATED SORCERER in the area: OOLACILE TOWNSHIP
+Death no. 18 occured on: 2020-11-19 and was caused by: FALLING in the area: OOLACILE TOWNSHIP
+Death no. 19 occured on: 2020-11-19 and was caused by: BLOATED RESIDENT in the area: OOLACILE TOWNSHIP
+Death no. 20 occured on: 2020-11-19 and was caused by: FALLING in the area: CHASM OF THE ABYSS
+Death no. 21 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+Death no. 22 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+Death no. 23 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+Death no. 24 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+Death no. 25 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+Death no. 26 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+Death no. 27 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+Death no. 28 occured on: 2020-11-19 and was caused by: MANUS in the area: CHASM OF THE ABYSS
+
+> Boss killed: MANUS which occured on: 2020-11-19
+
+Death no. 29 occured on: 2020-11-19 and was caused by: KALAMEET in the area: ROYAL WOOD
+Death no. 30 occured on: 2020-11-19 and was caused by: KALAMEET in the area: ROYAL WOOD
+Death no. 31 occured on: 2020-11-19 and was caused by: KALAMEET in the area: ROYAL WOOD
+
+> Boss killed: KALAMEET which occured on: 2020-11-19

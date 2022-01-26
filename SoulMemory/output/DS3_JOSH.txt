@@ -1,0 +1,304 @@
+Death no. 1 occured on: 2020-12-02 and was caused by: IUDEX GUNDYR in the area: CEMETARY OF ASH
+
+> Vanquished IUDEX GUNDYR on 2020-12-02 after 2 attempt(s)
+
+Death no. 2 occured on: 2020-12-02 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 3 occured on: 2020-12-02 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 4 occured on: 2020-12-02 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 5 occured on: 2020-12-02 and was caused by: MIMIC in the area: HIGH WALL OF LOTHRIC
+Death no. 6 occured on: 2020-12-02 and was caused by: PUS OF MAN in the area: HIGH WALL OF LOTHRIC
+Death no. 7 occured on: 2020-12-02 and was caused by: LARGE HOLLOW SOLDIER in the area: HIGH WALL OF LOTHRIC
+Death no. 8 occured on: 2020-12-02 and was caused by: FALLING in the area: HIGH WALL OF LOTHRIC
+Death no. 9 occured on: 2020-12-02 and was caused by: STARVED HOUND in the area: HIGH WALL OF LOTHRIC
+Death no. 10 occured on: 2020-12-02 and was caused by: EXPLOSION in the area: HIGH WALL OF LOTHRIC
+Death no. 11 occured on: 2020-12-02 and was caused by: WINGED KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 12 occured on: 2020-12-02 and was caused by: WINGED KNIGH in the area: HIGH WALL OF LOTHRIC
+
+> Vanquished VORDT OF THE BOREAL VALLEY on 2020-12-02 after 1 attempt(s)
+
+Death no. 13 occured on: 2020-12-03 and was caused by: HOLLOW SLAVE in the area: UNDEAD SETTLEMENT
+Death no. 14 occured on: 2020-12-03 and was caused by: UNDEAD WORKER in the area: UNDEAD SETTLEMENT
+Death no. 15 occured on: 2020-12-03 and was caused by: UNDEAD WORKER in the area: UNDEAD SETTLEMENT
+
+> Vanquished CURSE-ROTTED GREATWOOD on 2020-12-03 after 1 attempt(s)
+
+Death no. 16 occured on: 2020-12-03 and was caused by: OUTRIDER KNIGHT in the area: UNDEAD SETTLEMENT
+Death no. 17 occured on: 2020-12-03 and was caused by: OUTRIDER KNIGHT in the area: UNDEAD SETTLEMENT
+Death no. 18 occured on: 2020-12-03 and was caused by: UNKNOWN ENEMY in the area: ROAD OF SACRIFICES
+Death no. 19 occured on: 2020-12-03 and was caused by: UNKNOWN ENEMY in the area: ROAD OF SACRIFICES
+Death no. 20 occured on: 2020-12-03 and was caused by: UNKNOWN ENEMY in the area: ROAD OF SACRIFICES
+Death no. 21 occured on: 2020-12-03 and was caused by: FIRE DEMON in the area: UNDEAD SETTLEMENT
+Death no. 22 occured on: 2020-12-03 and was caused by: FALLING in the area: FARRON KEEP
+Death no. 23 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 24 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 25 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 26 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 27 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 28 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 29 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 30 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 31 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 32 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 33 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 34 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 35 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 36 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 37 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 38 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 39 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 40 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 41 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 42 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 43 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 44 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 45 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 46 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 47 occured on: 2020-12-03 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+
+> Vanquished ABYSS WATCHERS on 2020-12-03 after 25 attempt(s)
+
+Death no. 48 occured on: 2020-12-07 and was caused by: FALLING in the area: CATACOMBS OF CARTHUS
+Death no. 49 occured on: 2020-12-07 and was caused by: SKELETON SWORDSMAN in the area: CATACOMBS OF CARTHUS
+Death no. 50 occured on: 2020-12-07 and was caused by: FALLING in the area: CATACOMBS OF CARTHUS
+Death no. 51 occured on: 2020-12-07 and was caused by: FALLING in the area: CATACOMBS OF CARTHUS
+Death no. 52 occured on: 2020-12-07 and was caused by: SKELETON in the area: CATACOMBS OF CARTHUS
+Death no. 53 occured on: 2020-12-07 and was caused by: SOUL JAR in the area: CATACOMBS OF CARTHUS
+Death no. 54 occured on: 2020-12-07 and was caused by: SKELETON SWORDSMAN in the area: CATACOMBS OF CARTHUS
+Death no. 55 occured on: 2020-12-07 and was caused by: BOULDER in the area: CATACOMBS OF CARTHUS
+Death no. 56 occured on: 2020-12-07 and was caused by: BONEWHEEL in the area: CATACOMBS OF CARTHUS
+Death no. 57 occured on: 2020-12-07 and was caused by: SKELETON SWORDSMAN in the area: CATACOMBS OF CARTHUS
+Death no. 58 occured on: 2020-12-07 and was caused by: SKELETON SWORDSMAN in the area: CATACOMBS OF CARTHUS
+Death no. 59 occured on: 2020-12-07 and was caused by: HIGH LORD WOLNIR in the area: CATACOMBS OF CARTHUS
+Death no. 60 occured on: 2020-12-07 and was caused by: HIGH LORD WOLNIR in the area: CATACOMBS OF CARTHUS
+Death no. 61 occured on: 2020-12-07 and was caused by: HIGH LORD WOLNIR in the area: CATACOMBS OF CARTHUS
+Death no. 62 occured on: 2020-12-07 and was caused by: HIGH LORD WOLNIR in the area: CATACOMBS OF CARTHUS
+Death no. 63 occured on: 2020-12-07 and was caused by: HIGH LORD WOLNIR in the area: CATACOMBS OF CARTHUS
+
+> Vanquished HIGH LORD WOLNIR on 2020-12-07 after 6 attempt(s)
+
+Death no. 64 occured on: 2020-12-07 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL
+Death no. 65 occured on: 2020-12-07 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 66 occured on: 2020-12-07 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 67 occured on: 2020-12-07 and was caused by: CRYSTAL SAGE in the area: ROAD OF SACRIFICES
+
+> Vanquished CRYSTAL SAGE on 2020-12-07 after 2 attempt(s)
+
+Death no. 68 occured on: 2020-12-07 and was caused by: UNKNOWN in the area: CATHEDRAL OF THE DEEP
+Death no. 69 occured on: 2020-12-07 and was caused by: CORVIAN in the area: CATHEDRAL OF THE DEEP
+Death no. 70 occured on: 2020-12-07 and was caused by: GIANT in the area: CATHEDRAL OF THE DEEP
+Death no. 71 occured on: 2020-12-07 and was caused by: MIMIC in the area: CATHEDRAL OF THE DEEP
+Death no. 72 occured on: 2020-12-07 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+Death no. 73 occured on: 2020-12-07 and was caused by: CATHEDRAL KNIGHT in the area: CATHEDRAL OF THE DEEP
+Death no. 74 occured on: 2020-12-07 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+Death no. 75 occured on: 2020-12-07 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+Death no. 76 occured on: 2020-12-07 and was caused by: CATHEDRAL KNIGHT in the area: CATHEDRAL OF THE DEEP
+Death no. 77 occured on: 2020-12-07 and was caused by: CATHEDRAL KNIGHT in the area: CATHEDRAL OF THE DEEP
+Death no. 78 occured on: 2020-12-07 and was caused by: DEACONS OF THE DEEP in the area: CATHEDRAL OF THE DEEP
+
+> Vanquished DEACONS OF THE DEEP on 2020-12-07 after 2 attempt(s)
+
+Death no. 79 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 80 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 81 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 82 occured on: 2020-12-07 and was caused by: IRITHYLLIAN SLAVE in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 83 occured on: 2020-12-07 and was caused by: IRTHITHYLL OF THE BOREAL VALLEY in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 84 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 85 occured on: 2020-12-07 and was caused by: IRITHYLLIAN SLAVE in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 86 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 87 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 88 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 89 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 90 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 91 occured on: 2020-12-07 and was caused by: FIRE WITCH in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 92 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 93 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 94 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 95 occured on: 2020-12-07 and was caused by: IRITHYLLIAN SLAVE in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 96 occured on: 2020-12-07 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 97 occured on: 2020-12-08 and was caused by: IRITHYLLIAN SLAVE in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 98 occured on: 2020-12-08 and was caused by: FIRE WITCH in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 99 occured on: 2020-12-08 and was caused by: IRITHYLLIAN HOUND in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 100 occured on: 2020-12-08 and was caused by: PONTIFF KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 101 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 102 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 103 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 104 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 105 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 106 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 107 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 108 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 109 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF BOREAL VALLEY
+Death no. 110 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 111 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 112 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 113 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 114 occured on: 2020-12-08 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+
+> Vanquished PONTIFF SULYVAHN on 2020-12-08 after 16 attempt(s)
+
+Death no. 115 occured on: 2020-12-08 and was caused by: DEACON in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 116 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 117 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 118 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 119 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 120 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 121 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 122 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 123 occured on: 2020-12-08 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 124 occured on: 2020-12-08 and was caused by: ACCURSED in the area: ANOR LONDO
+Death no. 125 occured on: 2020-12-08 and was caused by: ALDRICH, DEVOURER OF GODS in the area: ANOR LONDO
+Death no. 126 occured on: 2020-12-08 and was caused by: ALDRICH, DEVOURER OF GODS in the area: ANOR LONDO
+Death no. 127 occured on: 2020-12-08 and was caused by: ALDRICH, DEVOURER OF GODS in the area: ANOR LONDO
+
+> Vanquished ALDRICH, DEVOURER OF GODS on 2020-12-08 after 4 attempt(s)
+
+Death no. 128 occured on: 2020-12-08 and was caused by: MIMIC in the area: IRITHYLL DUNGEON
+Death no. 129 occured on: 2020-12-08 and was caused by: JAILER in the area: IRITHYLL DUNGEON
+Death no. 130 occured on: 2020-12-08 and was caused by: GIANT RAT in the area: IRITHYLL DUNGEON
+Death no. 131 occured on: 2020-12-08 and was caused by: HAND MAN in the area: PROFANED CAPITAL
+Death no. 132 occured on: 2020-12-08 and was caused by: RAT in the area: IRITHYLL DUNGEONS
+Death no. 133 occured on: 2020-12-08 and was caused by: GARGOYLE in the area: PROFANED CAPITAL
+Death no. 134 occured on: 2020-12-08 and was caused by: YHORM THE GIANT in the area: PROFANED CAPITAL
+
+> Vanquished YHORM THE GIANT on 2020-12-08 after 2 attempt(s)
+
+Death no. 135 occured on: 2020-12-08 and was caused by: DANCER OF THE BOREAL VALLEY in the area: HIGH WALL OF LOTHRIC
+
+> Vanquished DANCER OF THE BOREAL VALLEY on 2020-12-08 after 2 attempt(s)
+
+Death no. 136 occured on: 2020-12-08 and was caused by: FALLING in the area: FIRELINK SHRINE
+Death no. 137 occured on: 2020-12-08 and was caused by: CATHEDRAL KNIGHT in the area: CONSUMED KING'S GARDEN
+Death no. 138 occured on: 2020-12-08 and was caused by: CATHEDRAL KNIGHT in the area: CONSUMED KING'S GARDEN
+
+> Vanquished OCEIROS, CONSUMED KING on 2020-12-08 after 1 attempt(s)
+
+Death no. 139 occured on: 2020-12-08 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 140 occured on: 2020-12-08 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 141 occured on: 2020-12-08 and was caused by: UNKNOWN ENEMY in the area: UNTENDED GRAVES
+Death no. 142 occured on: 2020-12-08 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 143 occured on: 2020-12-08 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 144 occured on: 2020-12-08 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 145 occured on: 2020-12-08 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+
+> Vanquished CHAMPION GUNDYR on 2020-12-08 after 7 attempt(s)
+
+Death no. 146 occured on: 2020-12-08 and was caused by: LOTHRIC KNIGHT in the area: LOTHRIC CASTLE
+Death no. 147 occured on: 2020-12-08 and was caused by: LOTHRIC KNIGHT in the area: LOTHRIC CASTLE
+
+> Vanquished DRAGONSLAYER ARMOR on 2020-12-08 after 1 attempt(s)
+
+Death no. 148 occured on: 2020-12-10 and was caused by: LOTHRIC & LORIAN in the area: THE GRAND ARCHIVES
+
+> Vanquished LOTHRIC & LORIAN on 2020-12-10 after 2 attempt(s)
+
+Death no. 149 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 150 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 151 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 152 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 153 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 154 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 155 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 156 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 157 occured on: 2020-12-10 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+
+> Vanquished SOUL OF CINDER on 2020-12-10 after 10 attempt(s)
+
+Death no. 157 occured on: 2020-12-10 and was caused by: UNKNOWN in the area: ARCHDRAGON PEAK
+Death no. 158 occured on: 2020-12-10 and was caused by: UNKNOWN in the area: ARCHDRAGON PEAK
+Death no. 159 occured on: 2020-12-10 and was caused by: UNKNOWN in the area: ARCHDRAGON PEAK
+Death no. 160 occured on: 2020-12-10 and was caused by: UNKNOWN in the area: ARCHDRAGON PEAK
+Death no. 161 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 162 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 163 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 164 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 165 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 166 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 167 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 168 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 169 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 170 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 171 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 172 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 173 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 174 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 175 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 176 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+Death no. 177 occured on: 2020-12-10 and was caused by: NAMELESS KING in the area: ARCHDRAGON PEAK
+
+> Vanquished NAMELESS KING on 2020-12-10 after 18 attempt(s)
+
+Death no. 178 occured on: 2020-12-10 and was caused by: WOLF in the area: PAINTED WORLD OF ARIANDEL
+Death no. 179 occured on: 2020-12-10 and was caused by: FALLING in the area: PAINTED WORLD OF ARIANDEL
+Death no. 180 occured on: 2020-12-10 and was caused by: FALLING in the area: PAINTED WORLD OF ARIANDEL
+
+> Vanquished CHAMPION'S GRAVETENDER on 2020-12-10 after 1 attempt(s)
+
+Death no. 181 occured on: 2020-12-10 and was caused by: CORVIAN KNIGHT in the area: CORVIAN SETTLEMENT
+Death no. 182 occured on: 2020-12-10 and was caused by: CORVIAN KNIGHT in the area: CORVIAN SETTLEMENT
+Death no. 183 occured on: 2020-12-10 and was caused by: CORVIAN KNIGHT in the area: CORVIAN SETTLEMENT
+Death no. 184 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 185 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 186 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 187 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 188 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 189 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 190 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 191 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 192 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 193 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 194 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 195 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 196 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WOLRD OF ARIANDEL
+Death no. 197 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 198 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 199 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 190 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 191 occured on: 2020-12-10 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 203 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+Death no. 204 occured on: 2020-12-11 and was caused by: FRIEDE in the area: PAINTED WORLD OF ARIANDEL
+
+> Vanquished FRIEDE on 2020-12-11 after 21 attempt(s)
+
+Death no. 205 occured on: 2020-12-11 and was caused by: LOTHRIC KNIGHT in the area: THE DREG HEAP
+Death no. 206 occured on: 2020-12-11 and was caused by: CURSE in the area: THE DREG HEAP
+Death no. 207 occured on: 2020-12-11 and was caused by: DESERT PYROMANCER ZOEY in the area: THE DREG HEAP
+Death no. 208 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 209 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 210 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 211 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 212 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 213 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 214 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 215 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 216 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 217 occured on 2020-12-14 and was caused by DEMON PRINCE
+Death no. 218 occured on 2020/12/14 21:39:53 and was caused by DEMON PRINCE
+Death no. 219 occured on 2020/12/14 21:40:34 and was caused by DEMON PRINCE
+
+> Vanquished DEMON PRINCE on 2020/12/14 21:49:13 after 13 attempt(s)
+
+Death no. 220 occured on 2020/12/14 21:53:53 in the area THE RINGED CITY
+Death no. 221 occured on 2020/12/14 21:56:01 in the area THE RINGED CITY
+Death no. 222 occured on 2020/12/14 22:02:35 in the area THE RINGED CITY
+Death no. 223 occured on 2020/12/14 22:03:40 in the area THE RINGED CITY
+Death no. 224 occured on 2020/12/14 22:22:32 in the area THE RINGED CITY
+Death no. 225 occured on 2020/12/14 22:25:29 in the area THE RINGED CITY
+Death no. 226 occured on 2020/12/14 22:39:01 in the area THE RINGED CITY
+Death no. 227 occured on 2020/12/14 22:39:06 in the area THE RINGED CITY
+Death no. 228 occured on 2020/12/14 23:05:15 and was caused by DARKEATER MIDIR
+Death no. 229 occured on 2020/12/14 23:10:08 and was caused by DARKEATER MIDIR
+Death no. 230 occured on 2020/12/14 23:15:20 and was caused by HALFLIGHT, SPEAR OF THE CHURCH
+
+> Vanquished HALFLIGHT, SPEAR OF THE CHURCH on 2020/12/14 23:18:43 after 2 attempt(s)
+
+Death no. 231 occured on 2020/12/14 23:25:50 and was caused by SLAVE KNIGHT GAEL
+Death no. 232 occured on 2020/12/15 18:16:44 and was caused by SLAVE KNIGHT GAEL
+Death no. 233 occured on 2020/12/15 18:22:43 and was caused by DARKEATER MIDIR
+Death no. 234 occured on 2020/12/15 18:28:27 and was caused by DARKEATER MIDIR
+Death no. 235 occured on 2020/12/15 18:31:58 in the area THE RINGED CITY
+Death no. 236 occured on 2020/12/15 18:36:42 in the area THE RINGED CITY
+Death no. 237 occured on 2020/12/15 18:47:05 and was caused by DARKEATER MIDIR
+Death no. 238 occured on 2020/12/15 18:52:55 and was caused by DARKEATER MIDIR
+Death no. 239 occured on 2020/12/15 18:59:52 and was caused by DARKEATER MIDIR
+Death no. 240 occured on 2020/12/15 19:03:36 and was caused by DARKEATER MIDIR
+Death no. 241 occured on 2020/12/15 19:07:05 and was caused by DARKEATER MIDIR

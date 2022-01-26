@@ -1,0 +1,139 @@
+Death no. 1 occured on: 2020-12-07 and was caused by: RAVENOUS CRYSTAL LIZARD in the area: CEMETARY OF ASH
+Death no. 2 occured on: 2020-12-07 and was caused by: RAVENOUS CRYSTAL LIZARD in the area: CEMETARY OF ASH
+
+> Boss killed: IUDEX GUNDYR which occured on: 2020-12-07
+
+Death no. 3 occured on: 2020-12-07 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 4 occured on: 2020-12-07 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 5 occured on: 2020-12-07 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 6 occured on: 2020-12-07 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 7 occured on: 2020-12-07 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 8 occured on: 2020-12-07 and was caused by: SWORD MASTER in the area: CEMETARY OF ASH
+Death no. 9 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 10 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 11 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 12 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 13 occured on: 2020-12-07 and was caused by: LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+Death no. 14 occured on: 2020-12-07 and was caused by: HOLLOW SOLIDER in the area: HIGH WALL OF LOTHRIC
+Death no. 15 occured on: 2020-12-07 and was caused by: RED-EYE LOTHRIC KNIGHT in the area: HIGH WALL OF LOTHRIC
+
+> Boss killed: VORDT OF THE BOREAL VALLEY which occured on: 2020-12-07
+
+Death no. 16 occured on: 2020-12-07 and was caused by: UNDEAD WORKER in the area: UNDEAD SETTLEMENT
+Death no. 17 occured on: 2020-12-07 and was caused by: HOLLOW SLAVE in the area: UNDEAD SETTLEMENT
+Death no. 18 occured on: 2020-12-07 and was caused by: GIANT ARCHER in the area: UNDEAD SETTLEMENT
+Death no. 19 occured on: 2020-12-07 and was caused by: FALLING in the area: UNDEAD SETTLEMENT
+Death no. 20 occured on: 2020-12-07 and was caused by: FALLING in the area: UNDEAD SETTLEMENT
+Death no. 21 occured on: 2020-12-07 and was caused by: CURSE-ROTTED GREATWOOD in the area: UNDEAD SETTLEMENT
+
+> Boss killed: CURSE-ROTTED GREATWOOD which occured on: 2020-12-07
+
+Death no. 22 occured on: 2020-12-07 and was caused by: OUTRIDER KNIGHT in the area: UNDEAD SETTLEMENT
+Death no. 23 occured on: 2020-12-07 and was caused by: FALLING in the area: UNDEAD SETTLEMENT
+Death no. 24 occured on: 2020-12-07 and was caused by: CRYSTAL SAGE in the area: ROAD OF SACRIFICES
+Death no. 25 occured on: 2020-12-07 and was caused by: CRYSTAL SAGE in the area: ROAD OF SACRIFICES
+
+> Boss killed: CRYSTAL SAGE which occured on: 2020-12-07
+
+Death no. 26 occured on: 2020-12-07 and was caused by: INVADER in the area: ROAD OF SACRIFICES
+Death no. 27 occured on: 2020-12-07 and was caused by: GHRU in the area: FARRON KEEP
+Death no. 28 occured on: 2020-12-07 and was caused by: GHRU in the area: FARRON KEEP
+Death no. 29 occured on: 2020-12-07 and was caused by: BASILISK in the area: FARRON KEEP
+Death no. 30 occured on: 2020-12-07 and was caused by: BLACK KNIGHT in the area: FARRON KEEP
+Death no. 31 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 32 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 33 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 34 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 35 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 36 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 37 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+Death no. 38 occured on: 2020-12-07 and was caused by: ABYSS WATCHERS in the area: FARRON KEEP
+
+> Boss killed: ABYSS WATCHERS which occured on: 2020-12-07
+
+Death no. 39 occured on: 2020-12-07 and was caused by: HIGH LORD WOLNIR in the area: CATACOMBS OF CARTHUS
+
+> Boss killed: HIGH LORD WOLNIR which occured on: 2020-12-07
+
+Death no. 40 occured on: 2020-12-07 and was caused by: SULYVAHN'S BEAST in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 41 occured on: 2020-12-08 and was caused by: CATHEDRAL EVANGELIST in the area: CATHEDRAL OF THE DEEP
+Death no. 42 occured on: 2020-12-08 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+Death no. 43 occured on: 2020-12-08 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+Death no. 44 occured on: 2020-12-08 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+Death no. 45 occured on: 2020-12-08 and was caused by: FALLING in the area: CATHEDRAL OF THE DEEP
+
+> Boss killed: DEACONS OF THE DEEP which occured on: 2020-12-08
+
+Death no. 46 occured on: 2020-12-08 and was caused by: FALLING in the area: IRITHYLL DUNGEON
+Death no. 47 occured on: 2020-12-08 and was caused by: YHORM THE GIANT in the area: PROFANED CAPITAL
+Death no. 48 occured on: 2020-12-08 and was caused by: YHORM THE GIANT in the area: PROFANED CAPITAL
+Death no. 49 occured on: 2020-12-08 and was caused by: YHORM THE GIANT in the area: PROFANED CAPITAL
+
+> Boss killed: YHORM THE GIANT which occured on: 2020-12-08
+
+Death no. 50 occured on: 2020-12-11 and was caused by: PONTIFF SULYVAHN in the area: IRITHYLL OF THE BOREAL VALLEY
+
+> Boss killed: PONTIFF SULYVAHN which occured on: 2020-12-11
+
+Death no. 51 occured on: 2020-12-11 and was caused by: SILVER KNIGHT in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 52 occured on: 2020-12-11 and was caused by: INVADER in the area: IRITHYLL OF THE BOREAL VALLEY
+Death no. 53 occured on: 2020-12-11 and was caused by: ACCURSED in the area: ANOR LONDO
+Death no. 54 occured on: 2020-12-11 and was caused by: ACCURSED in the area: ANOR LONDO
+Death no. 55 occured on: 2020-12-11 and was caused by: ALDRICH, DEVOURER OF THE GODS in the area: ANOR LONDO
+Death no. 56 occured on: 2020-12-11 and was caused by: ALDRICH, DEVOURER OF THE GODS in the area: ANOR LONDO
+
+> Boss killed: ALDRICH, DEVOURER OF THE GODS which occured on: 2020-12-11
+
+Death no. 57 occured on: 2020-12-11 and was caused by: DANCER OF THE BOREAL VALLEY in the area: HIGH WALL OF LOTHRIC
+
+> Boss killed: DANCER OF THE BOREAL VALLEY which occured on: 2020-12-11
+
+Death no. 58 occured on: 2020-12-11 and was caused by: CATHEDRAL KNIGHT in the area: CONSUMED KING'S GARDEN
+Death no. 59 occured on: 2020-12-11 and was caused by: OCEIROS, THE CONSUMED KING in the area: CONSUMED KING'S GARDEN
+
+> Boss killed: OCEIROS, THE CONSUMED KING which occured on: 2020-12-11
+
+Death no. 60 occured on: 2020-12-11 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 61 occured on: 2020-12-11 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 62 occured on: 2020-12-11 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+Death no. 63 occured on: 2020-12-11 and was caused by: CHAMPION GUNDYR in the area: UNTENDED GRAVES
+
+> Boss killed: CHAMPION GUNDYR which occured on: 2020-12-11
+
+Death no. 64 occured on: 2020-12-11 and was caused by: LOTHRIC KNIGHT in the area: CASTLE LOTHRIC
+Death no. 65 occured on: 2020-12-12 and was caused by: WYVERN in the area: LOTHRIC CASTLE
+Death no. 65 occured on: 2020-12-12 and was caused by: UNKNOWN in the area: UNKNOWN
+Death no. 66 occured on: 2020-12-12 and was caused by: UNKNOWN in the area: UNKNOWN
+Death no. 68 occured on: 2020-12-12 and was caused by: DRAGONSLAYER ARMOR in the area: LOTHRIC CASTLE
+Death no. 69 occured on: 2020-12-12 and was caused by: DRAGONSLAYER ARMOR in the area: LOTHRIC CASTLE
+Death no. 70 occured on: 2020-12-12 and was caused by: DRAGONSLAYER ARMOR in the area: LOTHRIC CASTLE
+
+> Boss killed: DRAGONSLAYER ARMOR which occured on: 2020-12-12
+
+Death no. 71 occured on: 2020-12-12 and was caused by: OUTRIDER KNIGHT in the area: GRAND ARCHIVES
+Death no. 72 occured on: 2020-12-12 and was caused by: OUTRIDER KNIGHT in the area: GRAND ARCHIVES
+Death no. 73 occured on: 2020-12-12 and was caused by: CRYSTAL SAGE in the area: GRAND ARCHIVES
+Death no. 74 occured on: 2020-12-12 and was caused by: UNDEAD SLAVE in the area: GRAND ARCHIVES
+Death no. 75 occured on: 2020-12-12 and was caused by: CURSE in the area: GRAND ARCHIVES
+Death no. 76 occured on: 2020-12-12 and was caused by: UNKNOWN ENEMY in the area: GRAND ARCHIVES
+Death no. 77 occured on: 2020-12-12 and was caused by: LOTHRIC & LORIAN in the area: GRAND ARCHIVES
+Death no. 78 occured on: 2020-12-12 and was caused by: LOTHRIC & LORIAN in the area: GRAND ARCHIVES
+Death no. 79 occured on: 2020-12-12 and was caused by: LOTHRIC & LORIAN in the area: GRAND ARCHIVES
+Death no. 80 occured on: 2020-12-12 and was caused by: LOTHRIC & LORIAN in the area: GRAND ARCHIVES
+Death no. 81 occured on: 2020-12-12 and was caused by: LOTHRIC & LORIAN in the area: GRAND ARCHIVES
+Death no. 82 occured on: 2020-12-12 and was caused by: LOTHRIC & LORIAN in the area: GRAND ARCHIVES
+
+> Boss killed: LOTHRIC & LORIAN which occured on: 2020-12-12
+
+Death no. 83 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 84 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 85 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 86 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 87 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 88 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 89 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 90 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+Death no. 91 occured on: 2020-12-13 and was caused by: SOUL OF CINDER in the area: KILN OF THE FIRST FLAME
+
+> Boss killed: SOUL OF CINDER which occured on: 2020-12-13
+
